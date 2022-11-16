@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Timland",
+		"leaderName": "Timothée",
+		"adjective": ["Le Géni"],
+		"startBias": ["Snow"],
+		
+		"startIntroPart1": "Civilisation inconnue semblant venir d'un autre monde. Si vous jouez avec cette faction vous êtes surement Timothée Le Géni, un grand informaticen. Je ne pense donc pas avoir grand choses a vous conseiller (ça fait bizard de parler a soi-meme).",
+		"startIntroPart2": "explose les autres civilisation avec tout les avantages que tu as",
+		
+		"declaringWar": "Tu t'attaque a plus fort que toi petit scarabé (ha ha ha ha haaa)!",
+		"attacked": "Tu vas le regretter petit scarabé, prendre des initiative c'est bien... trop, c'est mal!",
+		"defeated": "Votre apareil risque d'exploser, veuillez quitter la partie et suprimmer toute vos sauvegardes d'unciv.",
+		"intoduction": "j'espere que vous tiendrez plus de 30 tours",
+		
+		"neutrelHello": "Vous avez de la chance que je ne vous condère pas en ennemie, soyez obeissant si vous voulez survivre",
+		"hateHello": "Navré de vous annoncer votre mort certaine.",
+		"tradeRequest": "Ne me demendez rien, je risque sinon de refuser.",
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Demonstration de la puissance de l'informatique",
+		"uniqueText": "Des avantages juste abusés.",
+		"uniques": "[+9999 Science] [in capital]", "[+9999 Food] [in capital]", "[+9999 Culture] [in capital]", "[+9999 Production] [in capital]", "[+99999 Gold] [in capital]", "[+99999 Faith]", "Starts with [Future Tech]",
+		"cities": ["Timland", "Nythothalas", "Nylhamel", "Gahatalos", "Shylahone", "Thelnathemar", "E'ma Serin", "Elaena Tirion", "Yahobelle", "CC7land"],
+	}
+]
